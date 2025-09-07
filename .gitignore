@@ -1,0 +1,2 @@
+# Ignore the large model file to avoid GitHub size limit issues
+stock_model.pkl
