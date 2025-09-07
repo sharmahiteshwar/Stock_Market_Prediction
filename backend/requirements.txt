@@ -1,0 +1,11 @@
+requests
+scikit-learn
+numpy
+fastapi
+uvicorn[standard]
+python-dotenv
+# Removed yfinance due to rate limiting issues
+# Added kagglehub for dataset download, pandas for data handling, joblib for model serialization
+kagglehub
+pandas
+joblib
